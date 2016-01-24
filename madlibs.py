@@ -14,9 +14,9 @@ def main():
 #This is what tells the program how to format the words in order
     mad_lib = story.format(location,
                             game,
-                            food[0],
+                            food,
                             hours,
-                            food[1],
+                            food,
                             place,)
 
 #This is what print the story after it made
